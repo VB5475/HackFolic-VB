@@ -78,7 +78,6 @@ function MainListItem({ cardData, pageName, handleUpdateFlag }) {
         ? `Team Members : ${cardData.teamDetails.length}`
         : ""}
       </span>
-      {/* <span>MCQs: {mcqs}</span> */}
      </div>
     </div>
 
